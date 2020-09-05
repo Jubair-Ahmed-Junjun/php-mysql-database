@@ -133,8 +133,6 @@ if ($conn->query($sql) === TRUE) {
                    
 
 
-
-
                   //Create Database
  
 
